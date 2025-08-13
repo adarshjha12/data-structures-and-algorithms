@@ -1,0 +1,103 @@
+1. Arrays & Strings (Highest Priority)
+Reverse array / reverse string
+
+Rotate array (left/right, k steps)
+
+Two-pointer problems (e.g., pair sum, remove duplicates, sort colors)
+
+Sliding window (max sum subarray, longest substring without repeating chars)
+
+Prefix sum & difference arrays
+
+String manipulation (palindrome check, anagrams, string compression)
+
+Merge intervals
+
+2. Hashing (Maps & Sets)
+Frequency count problems
+
+Find duplicates / missing numbers
+
+Two-sum & variants
+
+Longest consecutive sequence
+
+Group anagrams
+
+Subarray sum equals K
+
+3. Stack & Queue
+Valid parentheses
+
+Next greater element
+
+Min stack
+
+Queue using stacks / stack using queues
+
+Sliding window maximum
+
+Monotonic stack problems
+
+4. Linked List
+Reverse linked list (iterative & recursive)
+
+Detect cycle (Floyd’s algorithm)
+
+Merge two sorted lists
+
+Middle of linked list
+
+Remove nth node from end
+
+5. Recursion & Backtracking
+Factorial, Fibonacci
+
+Generate subsets / permutations
+
+Rat in a maze / N-Queens
+
+Word search in grid
+
+6. Sorting & Searching
+Binary search (basic & variations)
+
+Search in rotated sorted array
+
+Merge sort / quick sort (understanding, not necessarily coding from scratch every time)
+
+Kth largest / smallest element
+
+7. Trees
+Traversals (inorder, preorder, postorder, level order)
+
+Height of tree
+
+Lowest common ancestor
+
+Path sum problems
+
+BST insert/search/delete
+
+8. Graphs (Basic for startups)
+BFS & DFS
+
+Number of islands
+
+Detect cycle in graph
+
+Topological sort (for dependency problems)
+
+9. Heap / Priority Queue
+K closest elements
+
+Merge k sorted lists
+
+Top k frequent elements
+
+10. Bit Manipulation (Only core ones)
+Check if number is power of 2
+
+Count set bits
+
+Single number (find element that appears once)
